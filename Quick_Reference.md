@@ -1,7 +1,5 @@
 # Quick Reference Sheet for Terms
-
 ---
-
 ## Foundations
   1. **Computer Vision(CV)**- The act of giving a computer "eyes" to sense the world, it involves both sensing with hardware and perceving with AI and ML
   2. **Object Detection**- A specific task in CV, where the model is suppoed to classify and identify the postion of an object in a frame or image
